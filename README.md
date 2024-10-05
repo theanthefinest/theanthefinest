@@ -8,9 +8,8 @@
 - 📫 How to reach me **FB: Chhay Thean**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGSnkKC9XQ/zL19S_AW_GNQY0oaUxtdyg/edit?utm_content=DAGSnkKC9XQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGSnkKC9XQ/zL19S_AW_GNQY0oaUxtdyg/edit?utm_content=DAGSnkKC9XQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-- 
-<img align ="right" alt="coding" width ="200" src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-preview.jpg">
+ 
+<img align ="right" alt="coding" width ="400" src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-preview.jpg">
 
 - ⚡ Fun fact **I love someone who doesn't love me back.**
 
