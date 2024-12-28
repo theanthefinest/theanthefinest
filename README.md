@@ -11,7 +11,8 @@
 <a href="https://github.com/theanthefinest/CV/raw/main/Resume.pdf" target="_blank" download>Download My Resume</a>
 
 
-<img align="right" alt="coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-preview.jpg" />
+<img align="right" alt="coding" width="400" style="margin-top: -20px;" src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-preview.jpg" />
+
 
 - ⚡ **Fun fact:** I love someone who doesn't love me back.
 
