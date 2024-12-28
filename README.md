@@ -7,8 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/theanthefinest)
 - 📫 How to reach me: **FB: Chhay Thean**
-- - 📄 Know about my experiences: 
-<a href="docs/resume.pdf" target="_blank" download>Download My Resume</a>
+- 📄 Know about my experiences: 
+<a href="docs/Resume.pdf" target="_blank" download>Download My Resume</a>
 
 <img align="right" alt="coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-preview.jpg" />
 
