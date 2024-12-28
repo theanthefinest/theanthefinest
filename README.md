@@ -7,7 +7,31 @@
 
 - 📫 How to reach me **FB: Chhay Thean**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGSnkKC9XQ/zL19S_AW_GNQY0oaUxtdyg/edit?utm_content=DAGSnkKC9XQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGSnkKC9XQ/zL19S_AW_GNQY0oaUxtdyg/edit?utm_content=DAGSnkKC9XQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences
+- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Link Icon</title>
+    <style>
+        .pdf-icon {
+            width: 50px; /* Icon size */
+            height: 50px;
+            display: inline-block;
+            background-image: url('pdf-icon.png'); /* Path to your icon image */
+            background-size: cover;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <a href="path-to-your-file.pdf" target="_blank" download>
+        <div class="pdf-icon"></div>
+    </a>
+</body>
+</html>
+
  
 <img align ="right" alt="coding" width ="400" src="https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-preview.jpg">
 
