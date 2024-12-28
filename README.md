@@ -8,7 +8,6 @@
 - 📫 How to reach me **FB: Chhay Thean**
 
 - 📄 Know about my experiences
-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
