@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chhaythean</h1>
-<h3 align="center">AI, Mathematics, and Statistics Enthusiast</h3>
+<h3 align="center">Ai, Mathematics, and Statistics Enthusiast</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=theanthefinest&label=Profile%20views&color=0e75b6&style=flat" alt="theanthefinest" />
