@@ -55,7 +55,6 @@ I am a **Data Science** student, currently a third-year student in Depth of Appl
 ![Flask](https://img.shields.io/badge/flask-%236DB33F.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/fastapi-6DA55F?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-django-%23Clojure?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/php-512BD4?style=for-the-badge&logo=php&logoColor=white)
 
 ###### Machine Learning & Data Science:
 ![Numpy](https://img.shields.io/badge/numpy-%230db7ed.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -92,17 +91,16 @@ I am a **Data Science** student, currently a third-year student in Depth of Appl
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">El Molino</h3>
+      <h3 align="center">Zhang Jiang</h3>
       <div align="center">
-        <a href="https://github.com/ALX-13/El-Molino" target="_blank">
+        <a href="https://github.com/theanthefinest" target="_blank">
           <img src="https://github.com/ALX-13/El-Molino/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
         </a>
         <p>
-          <a href="https://github.com/ALX-13/El-Molino" target="_blank">
+          <a href="https://github.com/theanthefinest" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p><strong>EL MOLINO</strong> es un juego desarrollado en <strong>C++</strong> que combina estrategias, decisiones e incluye gráficos de calidad sorprendente para una aplicación de consola.</p>
       </div>
     </td>
   </tr>
