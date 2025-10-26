@@ -1,3 +1,24 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chhay%20Thean&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BADE8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Science+%26+ML%2FAI+Enthusiast;Mathematics+%7C+Statistics+%7C+Optimization;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</div>
+<br>
+👨‍💻 About Me
+<img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW81cjZlZzBwc3V1YWJ0eHpzMWpnbXpsMGp0a3p2Z3cyYzlrZmltciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qUjDf9PZlHZ6/giphy.gif" alt="Coding"/>
+```yaml
+name: Chhay Thean
+located_in: Phnom Penh, Cambodia
+current_focus: Data Science & Machine Learning
+education: 3rd Year - Applied Mathematics & Statistics
+interests:
+  - Machine Learning & AI
+  - Applied Mathematics (Numerical Analysis, Optimization, Statistics)
+  - Pure Mathematics (Self-Taught)
+  - Deep Learning & Neural Networks
+hobbies: ["Coding", "Gaming 🎮", "Music 🎵", "Tutoring Math & Physics"]
+
 🚀 Open to collaborating on innovative projects  
 💡 Ask me anything about Math, ML, or Data Science  
 📧 Reach me at: **lychhaythean1122@gmail.com**
@@ -22,9 +43,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C/C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 
 </details>
 
@@ -56,6 +77,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Nestjs](https://img.shields.io/badge/Nestjs-092E20?style=for-the-badge&logo=nestjs&logoColor=white)
 
 </details>
 
@@ -66,6 +88,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b> Development Tools </b></summary>
+<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
