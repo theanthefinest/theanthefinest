@@ -6,24 +6,24 @@
 </div>
 <br>
 👨‍💻 About Me
+
 <img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW81cjZlZzBwc3V1YWJ0eHpzMWpnbXpsMGp0a3p2Z3cyYzlrZmltciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qUjDf9PZlHZ6/giphy.gif" alt="Coding"/>
-```yaml
-name: Chhay Thean
-located_in: Phnom Penh, Cambodia
-current_focus: Data Science & Machine Learning
-education: 3rd Year - Applied Mathematics & Statistics
-interests:
-  - Machine Learning & AI
-  - Applied Mathematics (Numerical Analysis, Optimization, Statistics)
-  - Pure Mathematics (Self-Taught)
-  - Deep Learning & Neural Networks
-hobbies: ["Coding", "Gaming 🎮", "Music 🎵", "Tutoring Math & Physics"]
+🎓 Third-year Data Science Student
+📍 Location: Phnom Penh, Cambodia
+🎯 Focus: Applied Mathematics & Statistics
+🔬 Current Learning Path:
 
-🚀 Open to collaborating on innovative projects  
-💡 Ask me anything about Math, ML, or Data Science  
-📧 Reach me at: **lychhaythean1122@gmail.com**
+🤖 Machine Learning & AI
+📊 Applied Mathematics (Numerical Analysis, Optimization, Statistics)
+🧮 Pure Mathematics (Self-Taught)
+🧠 Deep Learning & Neural Networks
 
-<br clear="right"/>
+🎯 Interests:
+
+💻 Coding Challenges
+🎮 Gaming
+🎵 Music
+📚 Tutoring Math & Physics
 
 ---
 
@@ -99,6 +99,7 @@ hobbies: ["Coding", "Gaming 🎮", "Music 🎵", "Tutoring Math & Physics"]
 <details open>
 <summary><b> Development Tools </b></summary>
 <br>
+  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
