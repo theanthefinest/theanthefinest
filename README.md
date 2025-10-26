@@ -2,21 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chhay%20Thean&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BADE8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Science+%26+ML%2FAI+Enthusiast;Mathematics+%7C+Statistics+%7C+Optimization;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3BADE8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Science+%26+ML%2FAI+Enthusiast;" alt="Typing SVG" />
 </div>
 <br>
 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW81cjZlZzBwc3V1YWJ0eHpzMWpnbXpsMGp0a3p2Z3cyYzlrZmltciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qUjDf9PZlHZ6/giphy.gif" alt="Coding"/>
+<!-- <img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW81cjZlZzBwc3V1YWJ0eHpzMWpnbXpsMGp0a3p2Z3cyYzlrZmltciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qUjDf9PZlHZ6/giphy.gif" alt="Coding"/> -->
 🎓 Third-year Data Science Student
 📍 Location: Phnom Penh, Cambodia
 🎯 Focus: Applied Mathematics & Statistics
 🔬 Current Learning Path:
 
-🤖 Machine Learning & AI
-📊 Applied Mathematics (Numerical Analysis, Optimization, Statistics)
-🧮 Pure Mathematics (Self-Taught)
-🧠 Deep Learning & Neural Networks
+  - 🤖 Machine Learning & AI
+  - 📊 Applied Mathematics (Numerical Analysis, Optimization, Statistics)
+  - 🧮 Pure Mathematics (Self-Taught)
+  - 🧠 Deep Learning & Neural Networks
 
 🎯 Interests:
 
@@ -26,14 +26,14 @@
 📚 Tutoring Math & Physics
 
 ---
-
+<!-- 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=theanthefinest&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy"/>
-</div>
+</div> -->
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -88,12 +88,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 </details>
 
 <details open>
@@ -123,13 +117,13 @@
 </div>
 
 ---
-
+<!-- 
 ## 🌟 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/theanthefinest">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=theanthefinest&repo=your-project-1&theme=radical&hide_border=true" />
+<a href="https://github.com/theanthefinest/Camtour-Ai">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=theanthefinest&repo=https://github.com/theanthefinest/Camtour-Ai & theme=radical&hide_border=true" />
 </a>
 
 <a href="https://github.com/theanthefinest">
@@ -140,7 +134,7 @@
 
 <p align="center">
   <i>Replace "your-project-1" and "your-project-2" with your actual repository names</i>
-</p>
+</p> -->
 
 ---
 
