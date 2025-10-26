@@ -1,146 +1,152 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+🚀 Open to collaborating on innovative projects  
+💡 Ask me anything about Math, ML, or Data Science  
+📧 Reach me at: **lychhaythean1122@gmail.com**
 
-<h1 align="center">
-  <b>Hi there, I'm</b> 
-  <a href="https://github.com/theanthefinest">Chhay Thean</a> 👋
-  <img src="https://media1.giphy.com/media/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="40">
-</h1>
+<br clear="right"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theanthefinest&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🔤 Languages & Syntax</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>🤖 Machine Learning & Data Science</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend:**  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Tools</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=theanthefinest&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=theanthefinest&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanthefinest&theme=radical&hide_border=true&layout=compact&langs_count=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=theanthefinest&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/theanthefinest">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=theanthefinest&repo=your-project-1&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/theanthefinest">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=theanthefinest&repo=your-project-2&theme=radical&hide_border=true" />
+</a>
+
+</div>
 
 <p align="center">
-  <em>Data Science Student • Machine Learning Enthusiast • Mathematics Explorer</em>
+  <i>Replace "your-project-1" and "your-project-2" with your actual repository names</i>
 </p>
 
 ---
 
-### 💫 About Me
-
-<img align="right" width="200px" src="https://media4.giphy.com/media/8qUjDf9PZlHZ6/giphy.gif" alt="Unicorn">
-
-I am a **Data Science** student, currently in my third year majoring in **Applied Mathematics and Statistics**.  
-My academic focus lies in **Machine Learning**, **Artificial Intelligence**, and **Mathematical Modeling**.
-
-- 📘 I’m currently learning:
-  - Machine Learning & AI 🤖  
-  - Applied Mathematics (Numerical Analysis, Optimization, Statistics) 📊  
-  - Pure Mathematics (Self-taught) 🧮
-- 🚀 Open to collaborating on new projects  
-- 💬 Ask me anything — I love helping others grow!  
-- 🎮 Outside tech, I enjoy gaming, music 🎵, and tutoring Mathematics & Physics.  
-- 📫 Reach out to me at: **[lychhaythean1122@gmail.com](mailto:lychhaythean1122@gmail.com)**  
-
----
-
-### 🏆 GitHub Trophies
+## 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theanthefinest&theme=dark_lover&row=1&column=7&margin-w=8&no-bg=true" width="90%">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lychhaythean1122@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ly-chhaythean-825a45353/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/chhay.thean.2025)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theanthefinest)
+
 </div>
 
 ---
 
-### 🌐 Connect With Me
+## 📈 Contribution Graph
 
 <div align="center">
-  <a href="mailto:lychhaythean1122@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ly-chhaythean-825a45353/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/chhay.thean.2025">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theanthefinest&custom_title=Contribution%20Graph&bg_color=0d1117&color=3bade8&line=3bade8&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
 
-### 🧠 Skills
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp; 
-***Languages & Syntax:***
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-<img align="right" width="310px" src="https://media3.giphy.com/media/a6pzK009rlCak/giphy.gif" alt="Coding GIF"/>
-
-***Frontend Development:***
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-***Backend & Frameworks:***
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NestJS]
-
-***Machine Learning & Data Science:***
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4E9BCD?style=for-the-badge&logo=python&logoColor=white)
-
-***Database Management:***
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-***Development Tools:***
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
-
-***Development Environments:***
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
-
----
-
-### 💎 Featured Project
-
-<table align="center">
-<tr>
-<td align="center" width="100%">
-  <h3><b>Zhang Jiang</b></h3>
-  <a href="https://github.com/theanthefinest" target="_blank">
-    <img src="https://github.com/ALX-13/El-Molino/blob/master/assets/images/logo.png" width="500" alt="El Molino Logo">
-  </a>
-  <br><br>
-  <a href="https://github.com/theanthefinest" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Code-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
+## 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALX-13&theme=nightowl&show_icons=true&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALX-13&theme=nightowl" width="48%">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ALX-13&theme=nightowl&layout=compact&langs_count=10" width="60%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
 ---
 
-### 👀 Visitor Counter
-
 <div align="center">
-  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="40">
-  <img src="https://profile-counter.glitch.me/ALX-13/count.svg" alt="visitor count"/>
-  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="40">
-</div>
+  
+### 👁️ Profile Views
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+![Visitor Count](https://profile-counter.glitch.me/theanthefinest/count.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+### ⭐ Show some ❤️ by starring some repositories!
+
+</div>
