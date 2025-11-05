@@ -86,22 +86,4 @@
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
----
-
-<div align="center">
-  
-### 👁️ Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/theanthefinest/count.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-### ⭐ Show some ❤️ by starring some repositories!
-
 </div>
