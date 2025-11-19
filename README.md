@@ -1,48 +1,5 @@
 ## Hi, There! 👋 I'm ChhayThean (Jiang)
 
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>Languages & Syntax</b></summary>
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,typescript,java,latex&theme=dark)](https://skillicons.dev)
-
-</details>
-
-<details open>
-<summary><b>Machine Learning & Data Science</b></summary>
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,r&theme=dark)](https://skillicons.dev)
-</details>
-
-<details open>
-<summary><b>Web Development</b></summary>
-<br>
-
-**Frontend:**  
-[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,angular,html&theme=dark)](https://skillicons.dev)
-
-**Backend:**  
-[![My Skills](https://skillicons.dev/icons?i=django,nodejs,nestjs,flask,fastapi,expressjs&theme=dark)](https://skillicons.dev)
-
-</details>
-
-<details open>
-<summary><b> Database & Tools</b></summary>
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,gcp&theme=dark)](https://skillicons.dev)
-
-</details>
-
-<details open>
-<summary><b> Development Tools </b></summary>
-<br>
-  
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux&theme=dark)](https://skillicons.dev)
-
 </details>
 <!-- 
 ## 🌟 Featured Projects
